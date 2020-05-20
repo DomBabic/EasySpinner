@@ -9,7 +9,7 @@ Pod::Spec.new do |spec|
                    DESC
 
   spec.homepage     = "https://github.com/DomBabic/EasySpinner"
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE.md" }
   spec.author       = { "Dominik Babić" => "domynick93@hotmail.com" }
 
   spec.ios.deployment_target = "10.0"
