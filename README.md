@@ -12,11 +12,7 @@ Your project deployment target must be at or above iOS v10.0 and using Swift 5.
 
 ### Installing
 
-You can add EasySpinner to your project in multiple different ways:
-
-#### Using CocoaPods
-
-If you are using CocoaPods as your dependancy manager simply add the following line to your podfile:
+You can add EasySpinner to your project in multiple different ways. If you are using CocoaPods as your dependancy manager simply add the following line to your podfile:
 
 ```
 pod 'EasySpinner'             //Without explicitly declaring version
