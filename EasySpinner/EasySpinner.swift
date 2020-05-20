@@ -160,7 +160,7 @@ public class EasySpinner: UIView {
         layer.addSublayer(sub)
     }
     
-    func toggleAnimation() {
+    public func toggleAnimation() {
         isAnimating ? stopAnimation() : startAnimation()
         
         isAnimating.toggle()
