@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "EasySpinner"
-  spec.version      = "0.0.5"
+  spec.version      = "1.0.0"
   spec.summary      = "A simple UIView subclass which can be used in place of UIActivityIndicatorView"
 
   spec.description  = <<-DESC
