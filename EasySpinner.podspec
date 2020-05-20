@@ -14,6 +14,8 @@ Pod::Spec.new do |spec|
 
   spec.ios.deployment_target = "10.0"
   spec.osx.deployment_target = "10.15"
+  
+  spec.swift_version = '5.0'
 
   spec.source       = { :git => "https://github.com/DomBabic/EasySpinner.git", :tag => spec.version }
   spec.source_files  = "EasySpinner", "EasySpinner/**/*.{h,m}"
